@@ -1,0 +1,8 @@
+transformation/TFM_DanglingCounter$MY_COUNTERS.class
+transformation/TFM_DanglingCounter$DanglingPagesReducer.class
+transformation/TFM_MapReduce$pageRankReducer.class
+transformation/TFM_MapReduce$RanksMapper.class
+transformation/TFM_MapReduce.class
+transformation/TFM_DanglingCounter.class
+transformation/TFM_MapReduce$GraphMapper.class
+transformation/TFM_DanglingCounter$GraphMapper.class
